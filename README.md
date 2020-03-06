@@ -1,15 +1,8 @@
 # whatsapp_clone
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img align="left" width="100" height="500" width="460" src="https://i.ibb.co/bN503nt/Screenshot-1583525041.png">
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
