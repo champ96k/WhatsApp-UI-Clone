@@ -2,7 +2,7 @@
 
 
 
-![Status Screen](https://i.ibb.co/X4h0Y0R/WhatsApp.jpg)
+![Status Screen](https://i.ibb.co/X4h0Y0R/WhatsApp.jpg) 
 
 
 
