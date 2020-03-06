@@ -2,7 +2,7 @@
 
 
 
-![Status Screen](https://i.ibb.co/X4h0Y0R/WhatsApp.jpg) 
+![](https://photos.app.goo.gl/xf9xQSztZZxy9foE8)
 
 
 
