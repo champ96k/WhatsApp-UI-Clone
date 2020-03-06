@@ -2,7 +2,10 @@
 
 
 
-<img align="left" width="100" height="500" width="460" src="https://i.ibb.co/bN503nt/Screenshot-1583525041.png">
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/bN503nt/Screenshot-1583525041.png">
+</p>
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
