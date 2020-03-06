@@ -2,7 +2,7 @@
 
 
 
-![Status Screen](https://i.ibb.co/bN503nt/Screenshot-1583525041.png)
+![Status Screen](https://i.ibb.co/bN503nt/Screenshot-1583525041.png){:height="36px" width="36px"}.
 
 
 For help getting started with Flutter, view our
