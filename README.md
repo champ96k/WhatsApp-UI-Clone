@@ -8,7 +8,7 @@
 
 
 
-![Iphone](blob:https://imgur.com/08cae8b7-88bf-407c-9bd1-f7425608bf49)
+![Iphone](]https://i.ibb.co/XJNXfKz/Whatsappp-IOS.jpg)
 
 
 
