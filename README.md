@@ -1,6 +1,20 @@
 # WhatsApp UI Clone
 
 
+####  Screensot
+
+
+#####   IOS
+
+
+<img src="https://i.imgur.com/QYOAHMy.jpg" height="24" width="48">
+<img src="https://i.imgur.com/zg9I4hU.jpg" height="24" width="48">
+<img src="https://i.imgur.com/hmLzzob.jpg" height="24" width="48">
+
+
+
+
+####    Androd
 
 ![Output](https://i.imgur.com/j3owFUY.jpg)
 
