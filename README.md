@@ -8,13 +8,13 @@
 
 
 
-![Output](blob:https://imgur.com/aab207ce-6163-4947-8d11-a549965add77)
+![Iphone](blob:https://imgur.com/08cae8b7-88bf-407c-9bd1-f7425608bf49)
 
 
 
 ####    Androd
 
-![Output](https://i.imgur.com/j3owFUY.jpg)
+![Android](https://i.imgur.com/j3owFUY.jpg)
 
 
 
