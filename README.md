@@ -8,12 +8,6 @@
 
 
 
-![Iphone](https://i.ibb.co/XJNXfKz/Whatsappp-IOS.jpg)
-
-
-
-####    Androd
-
 ![Android](https://i.imgur.com/j3owFUY.jpg)
 
 
