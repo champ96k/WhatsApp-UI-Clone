@@ -8,7 +8,7 @@
 
 
 
-![Iphone](]https://i.ibb.co/XJNXfKz/Whatsappp-IOS.jpg)
+![Iphone](https://i.ibb.co/XJNXfKz/Whatsappp-IOS.jpg)
 
 
 
