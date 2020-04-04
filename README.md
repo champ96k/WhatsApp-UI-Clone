@@ -7,8 +7,8 @@
 #####   IOS
 
 
-<img src="https://i.imgur.com/QYOAHMy.jpg" height="300" width="200"> <img src="https://i.imgur.com/zg9I4hU.jpg" height="300" width="200"> <img src="https://i.imgur.com/hmLzzob.jpg" height="300" width="200">
 
+![Output](blob:https://imgur.com/aab207ce-6163-4947-8d11-a549965add77)
 
 
 
